@@ -85,3 +85,23 @@
 .icons img{
     width: 30px;
 }
+.banner2{
+    background-image: url(../images/banner2.jpg);
+}
+.banner2 h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    margin-top: 50px;
+}
+.banner2_content{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.banner2_content p{
+    font-size: 50px;
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
